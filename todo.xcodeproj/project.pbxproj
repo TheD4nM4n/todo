@@ -44,6 +44,7 @@
 		8AAF4C8727A4630200644C51 /* todoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = todoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8AAF4C8B27A4630200644C51 /* todoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = todoUITests.swift; sourceTree = "<group>"; };
 		8AAF4C8D27A4630200644C51 /* todoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = todoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8AAF4C9A27A463A600644C51 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 		8AAF4C6427A462FF00644C51 = {
 			isa = PBXGroup;
 			children = (
+				8AAF4C9A27A463A600644C51 /* README.md */,
 				8AAF4C6F27A462FF00644C51 /* todo */,
 				8AAF4C8027A4630200644C51 /* todoTests */,
 				8AAF4C8A27A4630200644C51 /* todoUITests */,
